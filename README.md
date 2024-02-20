@@ -6,6 +6,8 @@ This Web Application is built for a dance studio that needs a platform for clien
 It will open to a homepage, that gives a small description on faculty and class information, as well as instructions on how to register. 
 The client will need to login-in in order to register and view the classes that they have alreafy registered for. 
 
+CS5610 Web Development 
+
 ## How to run this project locally
 1. Download this repo and the backend repo
 2. in the backend root folder run node index.js
